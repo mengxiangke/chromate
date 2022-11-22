@@ -1,6 +1,6 @@
 {
     "name": "hexo-theme-chromate",
-    "version": "0.0.0",
+    "version": "0.0.3",
     "author": {
         "name": "Doge-GUI",
         "email": "guiqiqi187@gmail.com",
@@ -27,6 +27,6 @@
     },
     "homepage": "https://github.com/guiqiqi/chromate",
     "dependencies": {
-        "podcast": "^1.3.0"
+        "podcast": "^2.0.0"
     }
 }
